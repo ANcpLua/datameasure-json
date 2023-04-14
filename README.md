@@ -11,6 +11,7 @@ if the bat file doesnt work right click edit with notepad and change the directo
 @echo off
 
 start cmd /k "java -jar C:\Users\YOURNAME\PROJECTFOLDER\dataDrei\datameasure.jar"
+
 start cmd /k "C:\Users\alex_\PORJECTFOLDER\dataDrei\src\datameasureDrei\main.exe"
 
 

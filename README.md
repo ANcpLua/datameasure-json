@@ -5,7 +5,13 @@
 Welcome to DataDrei, a Python and Java-based project that utilizes IntelliJ IDEA 2022.3.3 for data collection and analysis. This README will guide you through setting up the project, configuring your environment, and running the application.
 
 RUN "click this and everything should work.bat" inside src\datameasureDrei and 3(hehe) Windows should open that look like this   
-![after clicking the bat](https://gyazo.com/09cb58eb69f48222e16357129149a97d.png)
+![after clicking the bat](https://gyazo.com/09cb58eb69f48222e16357129149a97d.png) 
+
+if the bat file doesnt work right click edit with notepad and change the directory to your fitting for example 
+@echo off
+
+start cmd /k "java -jar C:\Users\YOURNAME\PROJECTFOLDER\dataDrei\datameasure.jar"
+start cmd /k "C:\Users\alex_\PORJECTFOLDER\dataDrei\src\datameasureDrei\main.exe"
 
 
 Setup
